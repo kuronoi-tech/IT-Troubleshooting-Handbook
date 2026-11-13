@@ -82,6 +82,6 @@ This exercise demonstrated the importance of systematic troubleshooting, resourc
 
 ---
 
-**Author:** Kan  
+**Author:** Kuronoi
 **Project:** IT Troubleshooting Handbook  
 **GitHub:** https://github.com/kuronoi-tech
